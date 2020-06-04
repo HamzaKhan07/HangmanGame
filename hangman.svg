@@ -1,0 +1,21 @@
+<svg width="315" height="314" viewBox="0 0 315 314" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="315" height="314" fill="#E5E5E5"/>
+<g id="body">
+<line id="Line 1" x1="64.5" y1="5" x2="64.5" y2="314" stroke="black" stroke-width="5"/>
+<line id="Line 2" x1="62" y1="2.5" x2="257" y2="2.5" stroke="black" stroke-width="5"/>
+<path id="Line 3" d="M257 0L257 54" stroke="black" stroke-width="5"/>
+<line id="Line 4" y1="311.5" x2="132" y2="311.5" stroke="black" stroke-width="5"/>
+</g>
+<g id="head">
+<circle id="Ellipse 1" cx="259" cy="84" r="28.5" stroke="black" stroke-width="3"/>
+</g>
+<line id="stomach" x1="260.5" y1="114" x2="260.5" y2="228" stroke="black" stroke-width="3"/>
+<line id="right-hand" x1="262.1" y1="163.8" x2="314.1" y2="124.8" stroke="black" stroke-width="3"/>
+<g id="left-hand">
+<line id="Line 10" x1="262.122" y1="166.216" x2="208.122" y2="127.216" stroke="black" stroke-width="3"/>
+</g>
+<g id="right-leg">
+<line id="Line 8" x1="259.958" y1="226.845" x2="300.958" y2="260.845" stroke="black" stroke-width="3"/>
+</g>
+<line id="left-leg" x1="260.015" y1="229.104" x2="223.015" y2="263.104" stroke="black" stroke-width="3"/>
+</svg>
